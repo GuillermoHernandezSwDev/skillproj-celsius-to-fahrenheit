@@ -1,5 +1,5 @@
 # Celsius to Fahrenheit - LinearRegression
-[Skill Project] Ejercicio de práctica de una regresión lineal sencilla con scikik-learn. El modelo aprende a convertir grados Celsius a Fahrenheit por su cuenta, sin usar fórmulas matemáticas.
+Ejercicio de práctica de una regresión lineal sencilla con scikik-learn. El modelo aprende a convertir grados Celsius a Fahrenheit por su cuenta, sin usar fórmulas matemáticas.
 
 ## Descripción del Proyecto
 
